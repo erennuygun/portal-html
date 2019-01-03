@@ -1,9 +1,8 @@
-<h1> HTML İçerik Modülü - portal-html  </h1>
+<h1> HTML İçerik Modülü :: portal-html  </h1>
 
 
 <li> Admin paneli: http://portal.kouosl/admin/html </li>
-<li> Kullanıcı paneli: http://portal.kouosl/iletisim </li>
-
+<li> Kullanıcı paneli: http://portal.kouosl/html </li>
 
 <h3> Yapım Aşamaları:</h3>
 
