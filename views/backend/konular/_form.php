@@ -7,6 +7,21 @@ use yii\widgets\ActiveForm;
 /* @var $model backend\models\Konular */
 /* @var $form yii\widgets\ActiveForm */
 ?>
+<html lang="tr">
+<head>
+  <style type="text/css">
+ body
+ {   
+  
+background-image:url('<?php echo "https://www.desktopbackground.org/download/o/2010/06/08/29747_soft-backgrounds_1920x1080_h.jpg" ?>');
+   }
+ </style>
+
+</head>
+
+</body>
+</html>
+
 
 <div class="konular-form">
 

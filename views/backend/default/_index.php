@@ -8,13 +8,30 @@ $this->params['breadcrumbs'][] = $this->title;
 //echo $this->render('index');
 //Portlet::end();
 ?>
+ <html lang="tr">
+<head>
+  <style type="text/css">
+ body
+ {   
+  
+background-image:url('<?php echo "https://www.desktopbackground.org/download/o/2010/06/08/29747_soft-backgrounds_1920x1080_h.jpg" ?>');
+   }
+ </style>
+
+</head>
+
+</body>
+</html>
+
+
 
 <div class="site-index">
 	 
-	 
-		<h1>Admin Paneli</h1>
-		<br/>
-        <p><a class="btn btn-lg btn-success" href="/admin/html/konular">Konu Ayarları</a>
+	
+<div align="center"><h1>Admin Paneli</h1> </div>
+		
+		<div align="center">   <a class="btn btn-lg btn-success" href="/admin/html/konular">Konu Ayarları</a> </div>
+     
 		
 </div>
 

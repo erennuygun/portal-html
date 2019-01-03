@@ -10,6 +10,27 @@ $this->title = 'Konu Modülü';
 //Portlet::end();
 //include 'haberturleri.php';
 ?>
+ 
+ 
+ <html lang="tr">
+<head>
+  <style type="text/css">
+ body
+ {   
+  
+background-image:url('<?php echo "https://www.desktopbackground.org/download/o/2010/06/08/29747_soft-backgrounds_1920x1080_h.jpg" ?>');
+   }
+ </style>
+
+</head>
+
+<body>
+
+
+
+</body>
+</html>
+
 
 <h2>Konular</h2>
 
