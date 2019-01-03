@@ -11,6 +11,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
 <div class="site-index">
 	 
+	 
 		<h1>Admin Paneli</h1>
 		<br/>
         <p><a class="btn btn-lg btn-success" href="/admin/html/konular">Konu Ayarları</a>
