@@ -25,6 +25,7 @@ class KonularController extends Controller
                 'actions' => [
                     'delete' => ['POST'],
                 ],
+                
             ],
         ];
     }
