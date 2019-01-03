@@ -9,6 +9,7 @@ use yii\filters\auth\QueryParamAuth;
 use yii\web\HttpException;
 
 
+
 /**
  * html module definition class
  */
