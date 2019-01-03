@@ -1,4 +1,4 @@
-<h1> portal-html - HTML İçerik Modülü </h1>
+<h1> HTML İçerik Modülü - portal-html  </h1>
 
 
 <li> Admin paneli: http://portal.kouosl/admin/html </li>
