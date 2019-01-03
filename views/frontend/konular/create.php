@@ -5,9 +5,9 @@ use yii\helpers\Html;
 /* @var $this yii\web\View */
 /* @var $model backend\models\Konular */
 
-$this->title = Yii::t('app', 'Create Konular');
-$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Admin Paneli'), 'url' => ['../html']];
-$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Konular'), 'url' => ['index']];
+$this->title = Yii::t('app', 'Yeni Konu Oluştur');
+//$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Admin Paneli'), 'url' => ['../html']];
+//$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Konular'), 'url' => ['index']];
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <html lang="tr">
