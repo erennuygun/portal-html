@@ -1,12 +1,29 @@
 <?= $this->title = 'Modül çalışıyor.'; ?>
+
+
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Kou Osl Yii2 App</h1>
+        <h1>HTML İçerik Proje</h1>
 
-        <p class="lead">Örnek uygulamayı başarılı bir şekilde çalıştırdınız.</p>
-
-        <p><a class="btn btn-lg btn-success" href="#">Modüller ve konfürgasyon!</a></p>
-    </div>
+         <h4>Son Eklenen Tablolar</h4>
+            <table class="table table-striped table-dark table-bordered">
+              
+                    
+                        <th>KonuID</th>
+                        <th>Konular</th>
+                        <th>Oluşturan</th>
+                        <th>İçerik</th>
+           
+        
+    	</div>
 
 </div>
+
+
+
+
+
+
+
+
